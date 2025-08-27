@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @kaustuv96
-- 👀 I’m interested in predictive & prescriptive analytics and GenAI use cases.
-- 🌱 I’m currently learning AI/ML and GenAI
-- 💞️ I’m looking to collaborate on building agents for business cases.
-- 📫 How to reach me www.linkedin.com/in/kaustuvbhattacharya
+# 👋 Hi, I’m Kaustuv  
+
+I am a **Business Consultant** working at the intersection of organizational learning and technology.  
+My interests include **analytics** and **Generative AI use cases**, especially where they can drive business value.  
+
+- 🌱 Currently exploring AI/ML and GenAI applications  
+- 💡 Looking to collaborate on building **agents and automation for business scenarios**  
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/kaustuvbhattacharya)  
 
 <!---
 kaustuv96/kaustuv96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
